@@ -35,7 +35,7 @@
     "event-drops": "^0.1.1",
     "express": "^4.13.0",
     "hogan-express": "^0.5.2",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.15",
     "react": "^0.13.3",
     "redis": "^0.12.1",
     "ringpop": "^9.8.22",
